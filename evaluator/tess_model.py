@@ -1,6 +1,4 @@
-
 import pytesseract
-from pytesseract import Output
 import cv2
 
 class Model():
