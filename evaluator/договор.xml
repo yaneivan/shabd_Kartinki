@@ -1,0 +1,110 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>договор.png</filename>
+	<path>C:/Users/admin/Desktop/shabd/imgs/договор.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>договор № 16</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>67</ymin>
+			<xmax>365</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>г. Москва</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>130</ymin>
+			<xmax>153</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>24 декабря 2015 г.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>129</ymin>
+			<xmax>534</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Общество с ограниченной ответственностью "Ромашка", именуемое в дальшейшем "Продавец", в лице Директора Лепесткова В.В., действующего на основании Устава, с одной стороны, и</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>188</ymin>
+			<xmax>565</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ООО "Лютик", именуемое в дальнейшем "Покупатель", в лице Директора Лютикова Василия Ивановича, действуюего на основании Устава, с другой стороны, совместно именуемые в дальнейшем "Стороны", и каждая в отдельности именуемая "Сторона", заключили настоящий договор (далее по тексту - Договор) о нижеследующем</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>245</ymin>
+			<xmax>563</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1. Предмет договора</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>318</ymin>
+			<xmax>377</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1.1.Продавец обязуется поставить и передать в собственность Покупателя Товар. Количество и функциональные характеристики Товара указаны в Спецификации (Приложение №1 к настоящему Договору).</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>360</ymin>
+			<xmax>562</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1.2.Право собственности на Товар переходит от Продавца к Покупателю в момент передачи последнему Товара. Счет-фактура выставляется в соответствии с НК РФ.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>404</ymin>
+			<xmax>565</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
